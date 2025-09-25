@@ -202,6 +202,7 @@ logger.error = (msg, options) => {
 }
 
 export default defineConfig({
+	base: "/",
 	customLogger: logger,
 	plugins: [
 		...(isDev ? [inlineEditPlugin(), editModeDevPlugin(), iframeRouteRestorationPlugin()] : []),
@@ -222,6 +223,7 @@ export default defineConfig({
 		},
 	},
 	build: {
+		outDir: "dist",
 		rollupOptions: {
 			external: [
 				'@babel/parser',
