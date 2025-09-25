@@ -1,0 +1,9 @@
+## Pages
+- [`}](/booking): No description available
+- [| SalonFlow`}](/admindashboard): No description available
+- [Crear Salón - SalonFlow](/createsalon): Crea tu salón de belleza en SalonFlow y comienza a gestionar reservas online.
+- [Iniciar Sesión - SalonFlow](/login): Accede a tu panel de administración de SalonFlow.
+- [Pago Exitoso - SalonFlow](/paymentsuccess): Tu pago para el Plan Pro ha sido procesado exitosamente.
+- [Pago Fallido - SalonFlow](/paymentfailure): Hubo un problema al procesar tu pago.
+- [Pago Pendiente - SalonFlow](/paymentpending): Tu pago está siendo procesado.
+- [SalonFlow - Gestión Moderna para Salones de Belleza](/home): La plataforma más moderna para gestionar tu salón de belleza y peluquería. Reservas online, panel administrativo y mucho más.
